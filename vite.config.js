@@ -7,6 +7,3 @@ export default defineConfig({
   base: '/6-7rt/', // 這裡要改成你的 repository 名稱
 });
 
-"scripts": {
-  "deploy": "gh-pages -d dist"
-}
