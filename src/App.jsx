@@ -20,7 +20,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>5b1g0004林文楷</h1>
+      <h1>123456789陳小明</h1>
       <h2>我的第一個元件：Slider</h2>
       <div>
         <p>
@@ -42,7 +42,7 @@ function App() {
       <h2>第三個元件:計算機</h2>
       <MyCalculator />
       <h2>第四個元件:井字遊戲</h2>
-      {/* <TicTacToe /> */}
+      <TicTacToe />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
